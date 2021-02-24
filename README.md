@@ -2,6 +2,9 @@
 
 ## Open Samsung Apps
 
+## Note: Due to error, I am not able to unpack image and extract it. I will archive this repo now and unarchive this repo when error fixes.
+## 알림: 제가 사용하는 언팩 프로그램이 에러나 나서 언팩을 못합니다. 지금은 이 레포를 아카이브하고 에러가 고쳐지면 다시 수정하겠습니다.
+
 ## Korean 한국어
 
 ### 삼성 기본 탑재 앱을 TWRP에서 플래싱 가능하게 패킹해 배포하는 프로젝트입니다.
@@ -15,3 +18,6 @@
 
  - Now versions(Way to read: Nothing = No Support, There is android version and checkbox not checked = developing, Checkbox = Able to download now!!)
    - [ ] Android 10 ARM64(Samsung Galaxy S9 Based)
+
+# I Will Immediatly delete this reposistory if this project is in problem of copyright
+# 저작권 문제시 즉시 이 레포시스토리를 삭제하겠습니다.
