@@ -2,7 +2,7 @@
 
 ## Open Samsung Apps
 
-### > 당신의 [Pixel](https://namu.wiki/w/%EA%B5%AC%EA%B8%80%20%ED%94%BD%EC%85%80%20%EC%8B%9C%EB%A6%AC%EC%A6%88), 더 높은 경지로.
+> 당신의 [Pixel](https://namu.wiki/w/%EA%B5%AC%EA%B8%80%20%ED%94%BD%EC%85%80%20%EC%8B%9C%EB%A6%AC%EC%A6%88), 더 높은 경지로.
 
 ## Note: Due to error, I am not able to unpack image and extract it. I will archive this repo now and unarchive this repo when error fixes.
 ## 알림: 제가 사용하는 언팩 프로그램이 에러나 나서 언팩을 못합니다. 지금은 이 레포를 아카이브하고 에러가 고쳐지면 다시 수정하겠습니다.
